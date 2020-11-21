@@ -1,0 +1,7 @@
+[main] INFO  | operation.Main                                               | hi (Main.java:14)
+[main] INFO  | testOperation.CalculTest                                     | Début test (CalculTest.java:21)
+[main] INFO  | testOperation.CalculTest                                     | Début test (CalculTest.java:21)
+[main] INFO  | testOperation.CalculTest                                     | Début test 2020-11-19 13:40:01.358 (CalculTest.java:25)
+[main] INFO  | testOperation.CalculTest                                     | Début test 2020-11-19 13:40:01.717 (CalculTest.java:25)
+[main] INFO  | testOperation.CalculTest                                     | Début test 2020-11-19 13:40:15.525 (CalculTest.java:25)
+[main] INFO  | testOperation.CalculTest                                     | Début test 2020-11-19 13:40:15.85 (CalculTest.java:25)
